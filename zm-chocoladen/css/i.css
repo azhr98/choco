@@ -51,9 +51,7 @@ a:hover {
 
 /* responsive design */
 @media screen and (max-width: 768px) {
-    * {
-        background-size:cover;
-    }
+    
  }
  
  /* smartphone */
