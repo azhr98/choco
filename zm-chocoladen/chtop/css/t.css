@@ -184,4 +184,10 @@ footer {
         display:flex;
         flex-direction: column;
     }
+
+     .navv a {
+        margin:18px;
+        color:#80614d;
+        text-decoration:none;
+    }
  }
