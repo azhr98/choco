@@ -50,12 +50,12 @@ a:hover {
 
 
 /* responsive design */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 751px) {
     
  }
  
  /* smartphone */
- @media screen and (max-width: 480px) {
+ @media screen and (max-width: 750px) {
 
      * {
          
