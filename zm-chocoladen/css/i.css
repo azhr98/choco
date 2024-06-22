@@ -1,0 +1,49 @@
+* {
+    margin:0;
+}
+
+html {
+    background-color:#4d260b;
+    background-image:url("../i_images/backchoco.jpg");
+    font-family:serif;
+}
+
+body {
+
+    
+}
+
+main {
+
+}
+
+nav{
+
+    padding:30px;
+    background-color:white;
+    opacity:0.5;
+    margin-right:0;
+    margin-left:80px;
+
+}
+
+h1{
+    margin-top:300px;
+    margin-bottom:20px;
+    margin-left:60px;
+    font-style:serif;
+    font-size:100px;
+    color:#ffe1cc;
+}
+
+a {
+    font-size:18px;
+    margin:15px;
+    color:#000;
+    text-decoration:none;
+    text-align:justify;
+}
+a:hover {
+    
+    color:orange;
+}
