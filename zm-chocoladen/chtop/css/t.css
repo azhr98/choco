@@ -139,3 +139,49 @@ footer {
     overflow-y:scroll;
     background-color:beige;
 }
+
+/* responsive design */
+@media screen and (max-width: 768px) {
+    p{
+         
+     }
+ }
+ 
+ /* smartphone */
+ @media screen and (max-width: 480px) {
+    * {
+        margin:0;
+    }
+
+    main {
+        background-color: #fffaf0;
+        opacity:0.8;
+        margin:60px;
+        padding:20px;
+        border-radius:15px;
+    }
+    p{
+         margin:5px;
+     }
+
+     .tbox {
+        text-align:center;
+        margin-left:10px;
+        margin-right:10px;
+    }
+
+     .tbox1 {
+        width:80%;
+        height:200px;
+        padding:15px;
+        margin:20px;
+        background-color:beige;
+        overflow-y:scroll;
+        border-radius:15px;
+    }
+
+    .yokonarabi {
+        display:flex;
+        flex-direction: column;
+    }
+ }
