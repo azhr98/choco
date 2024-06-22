@@ -58,7 +58,7 @@ a:hover {
  @media screen and (max-width: 480px) {
 
      * {
-         background-repeat:repeat-y;
+         background-image:url('../i_images/backchocos.jpg')
      }
 
     nav {
