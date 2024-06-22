@@ -57,6 +57,10 @@ a:hover {
  /* smartphone */
  @media screen and (max-width: 480px) {
 
+     * {
+         background-repeat:repeat-y;
+     }
+
     nav {
          margin-top:40px;
     }
