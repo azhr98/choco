@@ -58,9 +58,15 @@ a:hover {
  @media screen and (max-width: 480px) {
 
      * {
-         background-image:url('../i_images/backchocos.jpg')
+         
      }
 
+
+     html  {
+         background-image:url('../i_images/backchocos.jpg');
+         background-color:#4d260b;
+          font-family:serif;
+     }
     nav {
          margin-top:40px;
     }
