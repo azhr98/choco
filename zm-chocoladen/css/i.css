@@ -50,22 +50,38 @@ a:hover {
 
 
 /* responsive design */
-@media screen and (min-width: 751px) {
-    
+@media screen and (max-width: 768px) {
+    * {
+        background-size:cover;
+    }
  }
  
  /* smartphone */
- @media screen and (max-width: 750px) {
-
-     * {
-         
-     }
-
-
+ @media screen and (max-width: 480px) {
+    
+    nav {
+         margin-top:40px;
+    }/* responsive design */
+@media screen and (max-width: 768px) {
+    * {
+        background-size:cover;
+    }
+ }
+ 
+ /* smartphone */
+ @media screen and (max-width: 480px) {
+    
     nav {
          margin-top:40px;
     }
+    h1 {
+         padding-right:20px;
+     }
 
+     a {
+        font-size:50px;
+     }
+ }
 
      a {
         font-size:50px;
